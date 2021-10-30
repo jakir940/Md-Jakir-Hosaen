@@ -1,0 +1,17 @@
+@media all and(max-width: 768px){
+	.content-area{display:block;}
+	.content-area .content-left{width:100%;}
+	.content-area .content-right{width: 100%;}
+	.contact-content{display:block;}
+	.contact-content .content-left{width:100%;}
+	.contact-content .content-right{width:100%;}
+}
+
+
+
+
+
+
+
+
+
